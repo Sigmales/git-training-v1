@@ -1,0 +1,11 @@
+# ex2-dfunction.py
+# Define a function to double a value
+
+def double(n):
+    return n * 2
+
+# Example usage
+print(double(5))        # Output: 10
+print(double(3.5))      # Output: 7.0
+print(double("Hi"))     # Output: HiHi
+print(double([1, 2]))   # Output: [1, 2, 1, 2]
