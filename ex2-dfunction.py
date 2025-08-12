@@ -9,3 +9,5 @@ print(double(5))        # Output: 10
 print(double(3.5))      # Output: 7.0
 print(double("Hi"))     # Output: HiHi
 print(double([1, 2]))   # Output: [1, 2, 1, 2]
+
+print("Added this line from Github website for the first time")
