@@ -9,4 +9,4 @@ for num in numbers:
 
 print("Original:", numbers)
 print("Doubled:", doubled)
-print("Added this line of code fom Yanwirld from git terminal")
+print("Added this line of code fom Sigmales from git terminal")
