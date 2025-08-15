@@ -15,3 +15,5 @@ print("Added this line from the branch devteam2 from git terminal")
 print("Added this line from the techdev branch from git terminal")
 #--------------Adding variable
 H = 100
+#--------------Adding variable
+U = 500
