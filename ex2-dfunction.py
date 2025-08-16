@@ -16,6 +16,4 @@ print("Added this line from the techdev branch from git terminal")
 #--------------Adding variable
 H = 100
 #--------------Adding variable
-U = 500 
-#--------------Adding variable Y as Z
-Z = 400
+U = 500
