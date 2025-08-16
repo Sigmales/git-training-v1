@@ -17,3 +17,5 @@ print("Added this line from the techdev branch from git terminal")
 H = 100
 #--------------Adding variable
 U = 500
+#--------------Adding variable
+V = 600
