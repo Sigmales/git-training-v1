@@ -10,3 +10,5 @@ for num in numbers:
 print("Original:", numbers)
 print("Doubled:", doubled)
 print("Added this line of code fom Sigmales from git terminal")
+print("Added 1st line from techteam1 on Github")
+print("Added 2nd line from techteam1 on Github")
